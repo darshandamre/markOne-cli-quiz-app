@@ -38,4 +38,4 @@ const welcome = () => {
 
 - Twitter - [@DarshanDamre](https://twitter.com/DarshanDamre)
 - LinkedIn - [Darshan Damre](https://www.linkedin.com/in/darshandamre/)
-- Website - [Darshan Damre](https://www.your-site.com)
+- Website - [Darshan Damre](https://darshandamre.netlify.app/)
